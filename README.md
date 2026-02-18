@@ -57,12 +57,12 @@
 
 ## Usage Instructions  
 ### For Writers  
-- Log in to your account.  
+- Visit Dani's VPS  
 - Select a template and customize your letter.  
-- Send it to your recipient's email.  
+- Share to instagram story or download a copy of your letter.  
 
 ### For Recipients  
-- Receive your virtual letter via email.  
+- Receive your love letter via instagram or any social media.  
 - Click the link to view your letter online.  
 
 ## Internationalization  
@@ -76,13 +76,13 @@
 | Component   | Description           |  
 |-------------|-----------------------|  
 | Letter      | Represents a letter    |  
-| User        | User authentication    |  
+| User        | No User authentication    |  
 | Template    | Template customization  |  
 
 ## Utilities  
 | Utility     | Description           |  
 |-------------|-----------------------|  
-| mailer      | Handles email sending  |  
+| mailer      | Handles mail delivery  |  
 | logger      | Logs application events |  
 
 ## Future Enhancements  
@@ -98,7 +98,7 @@ For support, please contact [support@danisvps.com](mailto:support@danisvps.com).
 
 ## Credits  
 - Project developed by **Dan Mced**.  
-- Inspired by the idea of spreading love on Valentine���s Day!  
+- Inspired by the idea of spreading love on Valentines Day!  
 
 ---  
 

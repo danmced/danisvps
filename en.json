@@ -1,0 +1,70 @@
+{
+  "header": {
+    "title": "Dani's Valentine Postal Service"
+  },
+  "home": {
+    "title": "Dani's Valentine Postal Service",
+    "subtitle": "Your one & only VPS has arrived!",
+    "description": "Heard you got some feelings... I mean letters to share, ready?",
+    "writeButton": "Write Letter",
+    "viewButton": "View Letters",
+    "howItWorks": "How It Works",
+    "step1Title": "Step 1",
+    "step1Description": "Spit your feelings out",
+    "step2Title": "Step 2",
+    "step2Description": "Send it to the mailbox",
+    "step3Title": "Step 3",
+    "step3Description": "Let Dani's VPS share the love!",
+    "footer": "with love always, Dani"
+  },
+  "writeLetter": {
+    "title": "Write Your Letter",
+    "recipientLabel": "To (Recipient)",
+    "recipientPlaceholder": "Who is this letter for?",
+    "senderLabel": "From (Your Name)",
+    "senderPlaceholder": "Who is sending this letter?",
+    "messageLabel": "Your Message",
+    "messagePlaceholder": "Write your heartfelt message here...",
+    "sendButton": "Send Letter",
+    "successMessage": "Letter sent! 💕",
+    "errorMessage": "Failed to send letter",
+    "validationError": "Please fill in all fields",
+    "useTemplate": "Use Template"
+  },
+  "viewLetters": {
+    "title": "All Letters",
+    "noLetters": "No letters yet. Be the first to send one! 💕",
+    "letterDetail": "Your Valentine's Letter",
+    "downloadButton": "Download Letter Card",
+    "shareInstagramButton": "Share to Instagram Stories",
+    "closeButton": "Close"
+  },
+  "shareModal": {
+    "title": "Save Letter",
+    "downloadDescription": "Download your letter as a beautiful pixel art card",
+    "instagramDescription": "Share your letter directly to Instagram Stories",
+    "spreadMessage": "Spread the love 💕",
+    "downloadSuccess": "Letter card downloaded!",
+    "downloadError": "Failed to download letter card",
+    "instagramSuccess": "Opening Instagram Stories...",
+    "instagramError": "Failed to share to Instagram Stories"
+  },
+  "reactions": {
+    "addReaction": "Add Reaction",
+    "heart": "❤️",
+    "sparkles": "✨",
+    "fire": "🔥",
+    "smile": "😊",
+    "thumbsUp": "👍"
+  },
+  "common": {
+    "loading": "Loading...",
+    "error": "An error occurred",
+    "success": "Success!",
+    "cancel": "Cancel",
+    "submit": "Submit",
+    "delete": "Delete",
+    "edit": "Edit",
+    "back": "Back"
+  }
+}
